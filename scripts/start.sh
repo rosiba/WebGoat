@@ -11,7 +11,7 @@ checkDatabaseAvailable(){
 
 #java -Djava.security.egd=file:/dev/./urandom -jar home/webgoat/webgoat.jar --server.address=0.0.0.0
 $(checkDatabaseAvailable)
-
+# hehehe
 
 #java -Djava.security.egd=file:/dev/./urandom -jar /home/webwolf/webwolf.jar --server.port=9090 --server.address=0.0.0.0
 
